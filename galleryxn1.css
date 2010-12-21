@@ -1,0 +1,15 @@
+/* CSS Document */
+/* Sombras en los cuadros */
+li {
+	float: left;
+	width: auto;
+	margin: 5px;
+	padding: 6px;
+-webkit-box-shadow: 0 0 30px rgb(0,0,0);
+	-moz-box-shadow: 0 0 30px rgb(0,0,0);
+	box-shadow: 0 0 30px rgb(0,0,0);
+		-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	}
+

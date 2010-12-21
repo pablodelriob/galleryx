@@ -1,0 +1,25 @@
+/* CSS Document */
+/* Sombras en los cuadros */
+ul {
+	float: left;
+	width: auto;
+	list-style: none;
+	margin: 5px;
+	padding: 5px;
+	}
+li {
+	float: left;
+	width: auto;
+	margin: 20px;
+	padding: 6px;
+padding: 20px;
+	border: 1px solid #f0f0f0;
+	border-bottom: 2px solid #ccc;
+	
+	
+	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	}
+

@@ -1,0 +1,107 @@
+/* CSS Document */
+
+/* Botones */
+	.gal5{
+	background-color: #AFF5A3;
+		display: inline-block;
+	line-height: 1;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 7px;
+	
+	
+}
+
+	.gal4{
+	display: inline-block;
+	line-height: 1;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+	background-color: #FBB59D;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin: 5px;
+	padding-top: 7px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-left: 10px;
+}
+	.gal3{
+	display: inline-block;
+	line-height: 1;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+	background-color: #9AEFFE;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin: 5px;
+	padding-top: 7px;
+	padding-right: 10px;
+	padding-bottom: 7px;
+	padding-left: 10px;
+}
+
+	.gal2{
+	color: #000;
+	background-color: #D5E1B7;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 7px;
+	}
+
+.gal1{
+	display: inline-block;
+	line-height: 1;
+	text-decoration: none;
+	font-weight: bold;
+	color: #000;
+	background-color: #EB9DFB;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	margin: 5px;
+	padding: 7px;
+}
+
+
+
+/**/
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+a {
+	font-size: 9px;
+	color: #000000;
+}
+a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+a:link {
+	text-decoration: none;
+}
